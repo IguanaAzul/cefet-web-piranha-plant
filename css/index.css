@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: limegreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#voce-sabia {
+    background-image: url("../imagens/fundo.png");
+    border-width: 3px;
+    padding: 10px;
+    border-style: solid;
+    border-color: limegreen;
+}

@@ -1,0 +1,28 @@
+h1, h2 {
+    font-family: 'Times New Roman', serif;
+    color: limegreen;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    margin-left: 60px;
+    text-align: justify;
+}
